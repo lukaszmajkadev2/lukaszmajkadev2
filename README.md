@@ -3,8 +3,8 @@
 <h1>• Łukasz Majka<br>• lukaszmajkadev2</h1>
 <h3>◦ Łukasz Majka 2#9999</h3>
 <h3>◦ http://lukaszdev.pl/</h3>
-<h3>◦ https://gitlab.com/lukaszmajkadev</h3>
-<h3>◦ https://glitch.com/@lukaszmajkadev</h3>
+<h3>◦ https://gitlab.com/lukaszmajkadev2</h3>
+<h3>◦ https://glitch.com/@lukaszmajkadev2</h3>
 <h3>◦ https://dev.to/lukaszmajkadev2</h3>
 <h3>◦ kontakt@lukaszdev.pl</h3>
 <h3>◦ lukaszdev@lukaszdev.pl</h3>
