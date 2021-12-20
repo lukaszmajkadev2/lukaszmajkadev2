@@ -2,9 +2,13 @@
 
 <h1>• Łukasz Majka<br>• lukaszmajkadev2</h1>
 <h3>◦ Łukasz Majka 2#9999</h3>
-<h3>◦ http://lmdev.pl/</h3>
-<h3>◦ kontakt@lmdev.pl</h3>
-<h3>◦ lukaszmajka@lmdev.pl</h3>
+<h3>◦ http://lukaszdev.pl/</h3>
+<h3>◦ https://gitlab.com/lukaszmajkadev</h3>
+<h3>◦ https://glitch.com/@lukaszmajkadev</h3>
+<h3>◦ https://dev.to/lukaszmajkadev2</h3>
+<h3>◦ kontakt@lukaszdev.pl</h3>
+<h3>◦ lukaszdev@lukaszdev.pl</h3>
+<h3>◦ lukaszmajka@lukaszdev.pl</h3>
 <br><br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=lukaszmajkadev2&show_icons=false&include_all_commits&theme=white"/>
@@ -26,11 +30,11 @@
 </p>
 <br><br><br><br>
 
-  <p align="center">
-  <img src="https://img.shields.io/github/followers/lukaszmajkadev2?style=social"/>
-  <img src="https://img.shields.io/twitch/status/lukaszmajka?style=social"/>
-  <img src="https://img.shields.io/twitter/follow/ukasz89989598?style=social"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCzev9mrpe_K9KF_4UTYQrSw?style=social"/>
-  </p>
+<p align="center">
+<img src="https://img.shields.io/github/followers/lukaszmajkadev2?style=social"/>
+<img src="https://img.shields.io/twitch/status/lukaszmajka?style=social"/>
+<img src="https://img.shields.io/twitter/follow/ukasz89989598?style=social"/>
+<img src="https://img.shields.io/youtube/channel/subscribers/UCzev9mrpe_K9KF_4UTYQrSw?style=social"/>
+</p>
 
 <!--lukaszmajkadev2/README.md-->
