@@ -6,6 +6,7 @@
 <h3>◦ https://gitlab.com/lukaszmajkadev2</h3>
 <h3>◦ https://glitch.com/@lukaszmajkadev2</h3>
 <h3>◦ https://dev.to/lukaszmajkadev2</h3>
+<h3>◦ https://www.buymeacoffee.com/lukaszmajkadev2</h3>
 <h3>◦ kontakt@lukaszdev.pl</h3>
 <h3>◦ lukaszdev@lukaszdev.pl</h3>
 <h3>◦ lukaszdevpl@lukaszdev.pl</h3>
