@@ -13,7 +13,7 @@
 <h3>◦ lukaszmajka@lukaszdev.pl</h3>
 <br><br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=lukaszmajkadev2&show_icons=false&include_all_commits&theme=white"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lukaszmajkadev2&show_icons=true&locale=pl&theme=white"/>
 
 <p align="center">
 <br><br>
