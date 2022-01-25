@@ -3,21 +3,25 @@
 <h1>• Łukasz Majka<br>• lukaszmajkadev2</h1>
 <h3>◦ Łukasz Majka 2#9999</h3>
 <h3>◦ http://lukaszdev.pl/</h3>
+<h3>◦ http://lukaszhack.pl/</h3>
 <h3>◦ https://gitlab.com/lukaszmajkadev2</h3>
 <h3>◦ https://glitch.com/@lukaszmajkadev2</h3>
 <h3>◦ https://www.npmjs.com/~lukaszmajkadev2</h3>
 <h3>◦ https://dev.to/lukaszmajkadev2</h3>
 <h3>◦ https://www.buymeacoffee.com/lukaszmajkadev2</h3>
 <h3>◦ kontakt@lukaszdev.pl</h3>
-<h3>◦ lukaszdev@lukaszdev.pl</h3>
-<h3>◦ lukaszdevpl@lukaszdev.pl</h3>
-<h3>◦ lukaszmajka@lukaszdev.pl</h3>
-<br><br>
+<br>
+<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lukaszmajkadev2&show_icons=true&locale=pl&theme=white"/>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaszmajkadev2&show_icons=true&locale=pl&layout=compact&theme=white"/>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
-<br><br>
 <img src="https://img.shields.io/badge/html-white.svg?&style=for-the-badge&logo=html5&logoColor=000000"/>
 <img src="https://img.shields.io/badge/javascript-white.svg?&style=for-the-badge&logo=javascript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/typescript-white.svg?&style=for-the-badge&logo=typescript&logoColor=000000"/>
@@ -31,7 +35,14 @@
 <img src="https://img.shields.io/badge/mongodb-white.svg?&style=for-the-badge&logo=mongodb&logoColor=000000"/>
 <img src="https://img.shields.io/badge/oracle-white.svg?&style=for-the-badge&logo=oracle&logoColor=000000"/>
 </p>
-<br><br><br><br>
+<br>
+<br>
+
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-4/910909326623924234.png"/>
+</p>
+<br>
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/lukaszmajkadev2?style=social"/>
