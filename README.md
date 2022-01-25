@@ -1,15 +1,15 @@
 <!--lukaszmajkadev2-->
 
-<h1>• Łukasz Majka<br>• lukaszmajkadev2</h1>
-<h3>◦ Łukasz Majka 2#9999</h3>
-<h3>◦ http://lukaszdev.pl/</h3>
-<h3>◦ http://lukaszhack.pl/</h3>
-<h3>◦ https://gitlab.com/lukaszmajkadev2</h3>
-<h3>◦ https://glitch.com/@lukaszmajkadev2</h3>
-<h3>◦ https://www.npmjs.com/~lukaszmajkadev2</h3>
-<h3>◦ https://dev.to/lukaszmajkadev2</h3>
-<h3>◦ https://www.buymeacoffee.com/lukaszmajkadev2</h3>
-<h3>◦ kontakt@lukaszdev.pl</h3>
+<h1 align="center">• Łukasz Majka 2<br>• lukaszmajkadev2</h1>
+<h3 align="center">◦ Łukasz Majka 2#9999</h3>
+<h3 align="center">◦ http://lukaszdev.pl/</h3>
+<h3 align="center">◦ http://lukaszhack.pl/</h3>
+<h3 align="center">◦ https://gitlab.com/lukaszmajkadev2</h3>
+<h3 align="center">◦ https://glitch.com/@lukaszmajkadev2</h3>
+<h3 align="center">◦ https://www.npmjs.com/~lukaszmajkadev2</h3>
+<h3 align="center">◦ https://dev.to/lukaszmajkadev2</h3>
+<h3 align="center">◦ https://www.buymeacoffee.com/lukaszmajkadev2</h3>
+<h3 align="center">◦ kontakt@lukaszdev.pl</h3>
 <br>
 <br>
 
