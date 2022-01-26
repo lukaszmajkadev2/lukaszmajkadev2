@@ -1,5 +1,5 @@
 <!--lukaszmajkadev2-->
-<br>
+
 <h1 align="center">• Łukasz Majka 2<br>• lukaszmajkadev2</h1>
 <h3 align="center">◦ Łukasz Majka 2#9999</h3>
 <h3 align="center">◦ http://lukaszdev.pl/</h3>
