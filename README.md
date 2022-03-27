@@ -1,7 +1,7 @@
 <!--lukaszmajkadev2-->
 
 <h1 align="center">• Łukasz Majka 2<br>• lukaszmajkadev2</h1>
-<h3 align="center">◦ Łukasz Majka 2#9999</h3>
+<h3 align="center">◦ Łukasz Majka 2#1743</h3>
 <h3 align="center">◦ https://lukaszdev.pl/</h3>
 <h3 align="center">◦ https://lukaszhack.pl/</h3>
 <h3 align="center">◦ https://gitlab.com/lukaszmajkadev2</h3>
